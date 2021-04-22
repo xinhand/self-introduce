@@ -1,0 +1,14 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<head>
+<title>nihao shijie</title>
+</head>
+<body>
+<h2>yuchen is zhen</h2>
+<p>linux securecrt quik connect</p>
+<ol>
+<li>vi /etc/sysconfig/netowrk-scripts##编辑网卡选项</li>
+<li>ip a##查看网卡ip地址</li>
+</ol>
+........
